@@ -1,8 +1,43 @@
+- 07/marking/TigerWhiskersBlack.png
+    author: Mara
+    notes: Part of the TigerMLGSWAG skinpack
+    tags: tiger, animal
+    sha1: 5ff194ada0fcfa41a0f74d64a9b773341854a54d
+- 07/marking/Tiger3.png
+    author: Mara
+    notes: Part of the TigerMLGSWAG skinpack
+    tags: tiger, animal
+    sha1: 6fb8957b00bf098f83d120ba986bf0e5482cb8c7
+- 07/marking/WhiskersBlack.png
+    author: Mara
+    notes: Part of the TigerMLGSWAG skinpack
+    tags: tiger, animal
+    sha1: dfb56b86fdf63697fb345b1f5a3fbb074295f3c9
+- 07/eyes/SWAGlasses.png
+    author: Mara
+    notes: Part of the TigerMLGSWAG skinpack
+    tags: tiger, animal
+    sha1: 611c1983f295e0fbaaffd1eedfe4747136a04314
+- 07/feet/TigerFeet.png
+    author: Mara
+    notes: Part of the TigerMLGSWAG skinpack
+    tags: tiger, animal
+    sha1: fbb231c14fa7ee996f26f35ced7a65295b4bb5ef
+- 07/feet/TigerFeet2.png
+    author: Mara
+    notes: Part of the TigerMLGSWAG skinpack
+    tags: tiger, animal
+    sha1: 3ee787de398f113dc1cdda4eff0ad5de7875c79c
 - 07/body/greensward.png
     author: Whis
     notes: port of the 0.6 skin greensward.png
     tags: green, fluffy, grass, anime
     sha1: 77a45070dc3d583cbc97b49b77e3666ba7a783f0
+- 07/body/TigerMLG.png
+    author: Mara
+    notes: Part of the TigerMLGSWAG skinpack
+    tags: tiger, animal
+    sha1: e6d10ca3d7128108b77081b77b81fea6a0019763
 - 06/redam.png
     author:
     notes:
