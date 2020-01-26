@@ -3,6 +3,11 @@
     notes: Part of the TigerMLGSWAG skinpack
     tags: tiger, animal
     sha1: 5ff194ada0fcfa41a0f74d64a9b773341854a54d
+- 07/marking/pinetree.png
+    author: Souly
+    notes:
+    tags: christmas, xmas, tree, nature, pine, fir
+    sha1: 1e127a9422e8ea6eea2c973147045e6117091388
 - 07/marking/Tiger3.png
     author: Mara
     notes: Part of the TigerMLGSWAG skinpack
