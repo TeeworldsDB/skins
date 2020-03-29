@@ -43,6 +43,11 @@
     notes: Part of the TigerMLGSWAG skinpack
     tags: tiger, animal
     sha1: e6d10ca3d7128108b77081b77b81fea6a0019763
+- 07/greensward.json
+    author: Whis
+    notes: port of the 0.6 skin greensward.png belongs to body/greensward.png
+    tags: green, fluffy, grass, anime
+    sha1: 3a59c3babe58795da77bbac721b8bf8dae6f6ca9
 - 06/redam.png
     author:
     notes:
@@ -9148,6 +9153,11 @@
     notes:
     tags:
     sha1: 79d36349c3b3431f4bb9cd8a90ac3498ba32c761
+- 06/glowfox.png
+    author:
+    notes:
+    tags:
+    sha1: 96b277bfa4719f28fe26ecd9c9c53b923584a9b3
 - 06/Whatever_Next.png
     author:
     notes:
