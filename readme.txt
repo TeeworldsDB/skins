@@ -1,3 +1,8 @@
+- 07/marking/claptrap.png
+    author: Miper
+    notes: https://www.teeworlds.com/forum/viewtopic.php?pid=127415
+    tags: robot, borderlands
+    sha1: 1a7586cce4ad3ddc13907654e24efe1412a7b997
 - 07/marking/TigerWhiskersBlack.png
     author: Mara
     notes: Part of the TigerMLGSWAG skinpack
@@ -18,6 +23,36 @@
     notes: Part of the TigerMLGSWAG skinpack
     tags: tiger, animal
     sha1: dfb56b86fdf63697fb345b1f5a3fbb074295f3c9
+- 07/claptrap.json
+    author: Miper
+    notes: https://www.teeworlds.com/forum/viewtopic.php?pid=127415
+    tags: robot, borderlands
+    sha1: 64490b74ccb93dec69456dc1516604ec63852109
+- 07/hands/claptrap.png
+    author: Miper
+    notes: https://www.teeworlds.com/forum/viewtopic.php?pid=127415
+    tags: robot, borderlands
+    sha1: db09dd8d909194b64a62b971ac20ab8215c2fa64
+- 07/eyes/wild_colorable.png
+    author: Miper
+    notes: https://www.teeworlds.com/forum/viewtopic.php?pid=127415
+    tags:
+    sha1: 5a8732d02519b771bb03d0c1b6b1126dc3924c1a
+- 07/eyes/claptrap.png
+    author: Miper
+    notes: https://www.teeworlds.com/forum/viewtopic.php?pid=127415
+    tags: robot, borderlands
+    sha1: e67b781e237a36cf7ee62967837f1d7e5e123dc6
+- 07/eyes/wild_negative.png
+    author: Miper
+    notes: https://www.teeworlds.com/forum/viewtopic.php?pid=127415
+    tags:
+    sha1: e88f791ddb5f55c195a92bd182ec1f04a2bc5ac5
+- 07/eyes/wild.png
+    author: Miper
+    notes: https://www.teeworlds.com/forum/viewtopic.php?pid=127415
+    tags:
+    sha1: b0ff2760b4b6d6256724e666a0b08f8b42d8e13f
 - 07/eyes/SWAGlasses.png
     author: Mara
     notes: Part of the TigerMLGSWAG skinpack
@@ -33,16 +68,46 @@
     notes: Part of the TigerMLGSWAG skinpack
     tags: tiger, animal
     sha1: 3ee787de398f113dc1cdda4eff0ad5de7875c79c
+- 07/body/rabbit.png
+    author: Miper
+    notes: https://www.teeworlds.com/forum/viewtopic.php?pid=127415
+    tags: animal, bunny
+    sha1: 3e71be8011e27bd350e17d1b8fc3523959824545
 - 07/body/greensward.png
     author: Whis
     notes: port of the 0.6 skin greensward.png
     tags: green, fluffy, grass, anime
     sha1: 77a45070dc3d583cbc97b49b77e3666ba7a783f0
+- 07/body/claptrap.png
+    author: Miper
+    notes: https://www.teeworlds.com/forum/viewtopic.php?pid=127415
+    tags: robot, borderlands
+    sha1: 4b0ac41b38bd62eea2561efc7fb048e67e0b33ee
+- 07/body/fennec.png
+    author: Miper
+    notes: https://www.teeworlds.com/forum/viewtopic.php?pid=127415
+    tags: animal, fox
+    sha1: d8320574d8b141d63d930b071a3548b0e4f909ce
 - 07/body/TigerMLG.png
     author: Mara
     notes: Part of the TigerMLGSWAG skinpack
     tags: tiger, animal
     sha1: e6d10ca3d7128108b77081b77b81fea6a0019763
+- 07/rabbit.json
+    author: Miper
+    notes: https://www.teeworlds.com/forum/viewtopic.php?pid=127415
+    tags:
+    sha1: 8d0e848fc811bb31aaa9276b4858a22b670677d9
+- 07/fennec.json
+    author: Miper
+    notes: https://www.teeworlds.com/forum/viewtopic.php?pid=127415
+    tags: animal, fox
+    sha1: be16191bb615671ba0ba25c8ce95e6ba5db8ad1a
+- 07/decoration/antenna.png
+    author: Miper
+    notes: https://www.teeworlds.com/forum/viewtopic.php?pid=127415
+    tags: robot, borderlands, claptrap
+    sha1: 06c81f2084426be3f3ad400c89a2d924b11e5a10
 - 07/greensward.json
     author: Whis
     notes: port of the 0.6 skin greensward.png belongs to body/greensward.png

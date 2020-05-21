@@ -1,0 +1,37 @@
+{
+	"skin": {
+		"body": {
+			"filename": "fennec",
+			"custom_colors": true,
+			"hue": 25,
+			"sat": 255,
+			"lgt": 150
+		},
+		"marking": {
+			"filename": "fox",
+			"custom_colors": true,
+			"hue": 25,
+			"sat": 255,
+			"lgt": 235,
+			"alp": 255
+		},
+		"hands": {
+			"filename": "standard",
+			"custom_colors": true,
+			"hue": 25,
+			"sat": 255,
+			"lgt": 133
+		},
+		"feet": {
+			"filename": "standard",
+			"custom_colors": true,
+			"hue": 25,
+			"sat": 255,
+			"lgt": 235
+		},
+		"eyes": {
+			"filename": "wild",
+			"custom_colors": false
+		}
+	}
+}

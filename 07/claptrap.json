@@ -1,0 +1,47 @@
+{
+	"skin": {
+		"body": {
+			"filename": "claptrap",
+			"custom_colors": true,
+			"hue": 30,
+			"sat": 255,
+			"lgt": 90
+		},
+		"marking": {
+			"filename": "claptrap",
+			"custom_colors": true,
+			"hue": 30,
+			"sat": 255,
+			"lgt": 230,
+			"alp": 255
+		},
+		"decoration": {
+			"filename": "antenna",
+			"custom_colors": true,
+			"hue": 30,
+			"sat": 90,
+			"lgt": 90
+		},
+		"hands": {
+			"filename": "claptrap",
+			"custom_colors": true,
+			"hue": 30,
+			"sat": 255,
+			"lgt": 230
+		},
+		"feet": {
+			"filename": "standard",
+			"custom_colors": true,
+			"hue": 20,
+			"sat": 40,
+			"lgt": 20
+		},
+		"eyes": {
+			"filename": "claptrap",
+			"custom_colors": true,
+			"hue": 130,
+			"sat": 255,
+			"lgt": 125
+		}
+	}
+}
