@@ -658,11 +658,6 @@
     notes:
     tags:
     sha1: 52fac252471fbcee458af18106832c7fc83369df
-- 06/Cammo_Hut - Kopie.png
-    author:
-    notes:
-    tags:
-    sha1: 936d355e8c3c25fd8311599d556d23d500b91d87
 - 06/sasuke.png
     author:
     notes:
@@ -6373,11 +6368,6 @@
     notes:
     tags:
     sha1: 8dc0ccb6f7a7a2d657aeffab0a20570b1b6eee04
-- 06/0fdf3310[1] Kopie.png
-    author:
-    notes:
-    tags:
-    sha1: 222dd2bea480e72495b6f701f4965a642c0877d8
 - 06/KRstar.png
     author:
     notes:
@@ -6538,11 +6528,6 @@
     notes:
     tags:
     sha1: 3f12ed40d939cbc3ee518684596594a15ef6f578
-- 06/ztyla epic skin - Kopie.png
-    author:
-    notes:
-    tags:
-    sha1: d9365a2ad940df70d1c46404200a131fe1f103db
 - 06/Timmy.png
     author:
     notes:
