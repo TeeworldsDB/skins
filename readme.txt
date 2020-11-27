@@ -5389,7 +5389,7 @@
     tags:
     sha1: 8dc0ccb6f7a7a2d657aeffab0a20570b1b6eee04
 - 06/evilwolfe.png
-    author:
+    author: whis
     notes:
     tags:
     sha1: 4af11d778a91981f6a0145f4a149cb328dd7ffb0
@@ -15383,6 +15383,11 @@
     notes: Part of the TigerMLGSWAG skinpack
     tags: tiger, animal
     sha1: e6d10ca3d7128108b77081b77b81fea6a0019763
+- 07/body/wolfe_body.png
+    author: Souly
+    notes: ported by Souly to 0.7 based on 06/evilwolfe.png by whis
+    tags: animal
+    sha1: 72bc369de6d8a3dd158df2227c6e64ba12a30674
 - 07/claptrap.json
     author: Miper
     notes: https://www.teeworlds.com/forum/viewtopic.php?pid=127415
