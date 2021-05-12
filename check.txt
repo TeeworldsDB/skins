@@ -1,0 +1,5 @@
+# file structure for resolution check script
+# https://github.com/TeeworldsDB/scripts/blob/master/resolution.sh
+06	skins
+07	skins
+

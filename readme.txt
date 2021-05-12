@@ -48,11 +48,6 @@
     notes:
     tags:
     sha1: 411660df1b9a85738e456234819e3cd4e926e441
-- 06/0004-Rote_Aura.png
-    author:
-    notes:
-    tags:
-    sha1: c204384d8c131381d7c3b3f5faa36d53c47403e6
 - 06/0005-Jason.png
     author:
     notes:
@@ -98,11 +93,6 @@
     notes:
     tags:
     sha1: 4a097dde75de2412f88ac580768f129bf5c031cd
-- 06/0007-WhiteSpikes_v2.png
-    author:
-    notes:
-    tags:
-    sha1: 4a55c22c4374af952d4ffddcdd4bbff79141fd1b
 - 06/0008-mario1uw5.png
     author:
     notes:
@@ -123,11 +113,6 @@
     notes:
     tags:
     sha1: a85033abc06080070a01117c45059fc4596a19a6
-- 06/0011hvad.png
-    author:
-    notes:
-    tags:
-    sha1: c87bce799704a4f9ae5f0e0464c46f12bb900360
 - 06/0012-armyblue.png
     author:
     notes:
@@ -183,16 +168,6 @@
     notes:
     tags:
     sha1: d9ceffa853249c3811419adb6a42a20e130ce15a
-- 06/002beast.png
-    author:
-    notes:
-    tags:
-    sha1: 31799792a569d7f6960a128555a15659a5c705f0
-- 06/0032-masterchief_translucent.png
-    author:
-    notes:
-    tags:
-    sha1: 1ff66f11272d6ddcbba4281d16fa02354647f17b
 - 06/0033-NINJA1.png
     author:
     notes:
@@ -273,21 +248,11 @@
     notes:
     tags:
     sha1: dddd313327809aa0aa6de6cb76211e655ff956d8
-- 06/0044-sheep_black.png
-    author:
-    notes:
-    tags:
-    sha1: 29e2b7b76afab8345efb2423b7edc8a70079461b
 - 06/0044-wb.png
     author:
     notes:
     tags:
     sha1: 1c08ed402973c7f017a0ae58365506d923de37db
-- 06/0044-webstAr95 clan skin.png
-    author:
-    notes:
-    tags:
-    sha1: d888aec8e9ff4c25ba8c199a65a651cec3fab637
 - 06/0044-Zetsu_WL.png
     author:
     notes:
@@ -298,11 +263,6 @@
     notes:
     tags:
     sha1: 0c125029afe464c21f389f2288342c1795dc3cc8
-- 06/0045-fish_glass.png
-    author:
-    notes:
-    tags:
-    sha1: 27aabdc1b8f90202e14b12205d5d4a6bac97d0da
 - 06/0045-GERMANY.png
     author:
     notes:
@@ -343,11 +303,6 @@
     notes:
     tags:
     sha1: b82b2c14982b1d3ec84ddbef11a06c079c35091d
-- 06/0045-x_ninja.png
-    author:
-    notes:
-    tags:
-    sha1: beb58d189b1369d9ba9e74139955f7dc7d480caa
 - 06/0046-037.png
     author:
     notes:
@@ -368,11 +323,6 @@
     notes:
     tags:
     sha1: 39b9bab331423efb8cc83b402274a3f16736d0ad
-- 06/0046-hades2.png
-    author:
-    notes:
-    tags:
-    sha1: 7cb81bbcd576000b4978a4ac91d23f99fc7cd495
 - 06/0046-leaf.png
     author:
     notes:
@@ -523,21 +473,6 @@
     notes:
     tags:
     sha1: b7e0dca302a49bca9d094057e4806a73d0487175
-- 06/00AngelAhri.png
-    author:
-    notes:
-    tags:
-    sha1: 66997140b538ef453340998b44c999bb15a44f96
-- 06/00Ante.png
-    author:
-    notes:
-    tags:
-    sha1: 8cac2dca30006fb6660a07f0f477b6dc86fc4d4d
-- 06/00Aoe4leg.png
-    author:
-    notes:
-    tags:
-    sha1: e506dde04372894116ad07ceb626b1204441102d
 - 06/00Aoeil.png
     author:
     notes:
@@ -563,21 +498,11 @@
     notes:
     tags:
     sha1: 39f1e6ec3edc1d52db4c3df244b1d8d16453ef11
-- 06/00Baer.png
-    author:
-    notes:
-    tags:
-    sha1: c2f4ed917ca4c783458d455340db31c90ed5a58d
 - 06/00barsuk_h46.png
     author:
     notes:
     tags:
     sha1: d4c733149c0ace2bebed35d0cdeabbed5d2b0346
-- 06/00Bossk.png
-    author:
-    notes:
-    tags:
-    sha1: 8fd07b11bac89f782f7674db542c68c83235eba5
 - 06/00Broke.png
     author:
     notes:
@@ -648,11 +573,6 @@
     notes:
     tags:
     sha1: fb85fbd77c4103aee574469fb3737a4234a266e3
-- 06/00Giese.png
-    author:
-    notes:
-    tags:
-    sha1: 33492aa23fab76e39dcd53fcb5f6e7331ae71c40
 - 06/00Hesse.png
     author:
     notes:
@@ -683,11 +603,6 @@
     notes:
     tags:
     sha1: dac0dbeef8457e57dc68f14ec9294ba5411554d1
-- 06/00Joggin.png
-    author:
-    notes:
-    tags:
-    sha1: 5f4f2fcbe1b1e7f83f8ceda44a660f59f7373553
 - 06/00Kayumi.png
     author:
     notes:
@@ -718,11 +633,6 @@
     notes:
     tags:
     sha1: b2cfb9defc5baf0389632947f9897e9f747d67c9
-- 06/00lufu1.png
-    author:
-    notes:
-    tags:
-    sha1: b351825eb169368d502ba730ac5c4bc0ad2bc794
 - 06/00Mad.png
     author:
     notes:
@@ -1128,11 +1038,6 @@
     notes:
     tags:
     sha1: dc77bd171e76afdf0bd44c53fb2623667932b066
-- 06/190.png
-    author:
-    notes:
-    tags:
-    sha1: 4a48c753075eaab03e3ef18284f8eaf2a9a82349
 - 06/1996c1600000000de.png
     author:
     notes:
@@ -1338,11 +1243,6 @@
     notes:
     tags:
     sha1: f720f47b2d972793bef83cbdd57df8440bedc90d
-- 06/2cool.png
-    author:
-    notes:
-    tags:
-    sha1: bbc77fecf4557824b923274c9e00cdadd34f445a
 - 06/2dbuhy0.png
     author:
     notes:
@@ -1613,11 +1513,6 @@
     notes:
     tags:
     sha1: 699ba6d678c91d0d80d3d6924b37cab94c64f078
-- 06/62.png
-    author:
-    notes:
-    tags:
-    sha1: 9fc9725e7b001f2e68f4bf071aac8eb13e5e6f27
 - 06/68b657a27ef3.png
     author:
     notes:
@@ -1768,11 +1663,6 @@
     notes:
     tags:
     sha1: ea2d0ba111756bdb7a8da7b39ef46b0608637984
-- 06/8lkx-5.png
-    author:
-    notes:
-    tags:
-    sha1: 9cdf4feb9df2c14a1f4c9c472496d900acea8edb
 - 06/8lkx-a.png
     author:
     notes:
@@ -1993,11 +1883,6 @@
     notes:
     tags:
     sha1: b0deb6d01e56149ca7b60da0dec94d348aa6c75a
-- 06/Alien.png
-    author:
-    notes:
-    tags:
-    sha1: 16538f725425a393f13a921fd7dcbe1f4b55fd12
 - 06/alien_snoo_reddit.png
     author:
     notes:
@@ -2023,11 +1908,6 @@
     notes:
     tags:
     sha1: 61aa48686314223f61ad7e7f21f8903c5c137d8f
-- 06/alphatee2.png
-    author:
-    notes:
-    tags:
-    sha1: dde0ab4c2a7ffa16211d3a98c74479c745843373
 - 06/alphatee.png
     author:
     notes:
@@ -2063,11 +1943,6 @@
     notes:
     tags:
     sha1: a13d7fc8684853dfc3a4ade79baa2ae7a6e10926
-- 06/amor2.png
-    author:
-    notes:
-    tags:
-    sha1: e3e35fba5d8c9f672ba1d7b16498b2e52b2a4ef1
 - 06/amor_green.png
     author:
     notes:
@@ -2088,31 +1963,16 @@
     notes:
     tags:
     sha1: 00ddc030dfd5efbf3987cf44913ca613dc5e446a
-- 06/angel-1.png
-    author:
-    notes:
-    tags:
-    sha1: eeaf67e58b5f0d8266ee184325ef8eed95f90946
 - 06/AngelAhri.png
     author:
     notes:
     tags:
     sha1: 66997140b538ef453340998b44c999bb15a44f96
-- 06/Angel_D.png
-    author:
-    notes:
-    tags:
-    sha1: 26f02f1660e64fe147dbc3d33e52d73bf82e7c02
 - 06/Angelika.png
     author:
     notes:
     tags:
     sha1: df026ba79515b4744ae6d83312abee84775a3811
-- 06/angeloh.png
-    author:
-    notes:
-    tags:
-    sha1: 26f02f1660e64fe147dbc3d33e52d73bf82e7c02
 - 06/angel.png
     author:
     notes:
@@ -2478,11 +2338,6 @@
     notes:
     tags:
     sha1: 22e76c614033c7245c755312f9e4ff37388a4578
-- 06/Baerli2.png
-    author:
-    notes:
-    tags:
-    sha1: 475672e067fc4cc47998b284821a6f9611c0fc2d
 - 06/baerli3.png
     author:
     notes:
@@ -2513,11 +2368,6 @@
     notes:
     tags:
     sha1: a35b0c8fad237306db9609a53fa350cff9e982b9
-- 06/ballon2.png
-    author:
-    notes:
-    tags:
-    sha1: eec7d4a5850f61860513cadb4f6c243f131e9ec0
 - 06/ballon_basket.png
     author:
     notes:
@@ -2608,11 +2458,6 @@
     notes:
     tags:
     sha1: 713eb89b2be486501b26e0872b2c58a7b63ed72e
-- 06/Bat.png
-    author:
-    notes:
-    tags:
-    sha1: 713eb89b2be486501b26e0872b2c58a7b63ed72e
 - 06/battee.png
     author:
     notes:
@@ -2648,11 +2493,6 @@
     notes:
     tags:
     sha1: 13af6312b12dc1072ae4838ee738251973baaa0b
-- 06/Beast_1.png
-    author:
-    notes:
-    tags:
-    sha1: fd4e6b8e525d9c8a75d24c08a0f85b2af0423496
 - 06/beast_bandana.png
     author:
     notes:
@@ -2683,11 +2523,6 @@
     notes:
     tags:
     sha1: 8b39a9ef07f531274b442d439e33c063d4f57cc8
-- 06/Beer.png
-    author:
-    notes:
-    tags:
-    sha1: 90ab0791bd690d19e2b758276732101b10d0ec95
 - 06/beertee.png
     author:
     notes:
@@ -2753,11 +2588,6 @@
     notes:
     tags:
     sha1: 90ab0791bd690d19e2b758276732101b10d0ec95
-- 06/big bomb.png
-    author:
-    notes:
-    tags:
-    sha1: 48fb864bb631fad6d701ad31911c88c18fdec35f
 - 06/bigbop2.png
     author:
     notes:
@@ -2778,16 +2608,6 @@
     notes:
     tags:
     sha1: 910abd188e33404c313904a1142f28f2b739f52a
-- 06/Bigfoot.png
-    author:
-    notes:
-    tags:
-    sha1: 3f6a17c6952edeffe0784b438f21ffa8344ffffe
-- 06/bigguy.png
-    author:
-    notes:
-    tags:
-    sha1: e7de3714969f3b536b4cd9145214b25dc914b37f
 - 06/bighelmet.png
     author:
     notes:
@@ -2818,16 +2638,6 @@
     notes:
     tags:
     sha1: f069fe1addcabf4128736237c7abf64c10609d51
-- 06/birthdayfr.png
-    author:
-    notes:
-    tags:
-    sha1: 278ab4adc5d5cfd61abcb310c290fb0740d07434
-- 06/birthdyui4.png
-    author:
-    notes:
-    tags:
-    sha1: 278ab4adc5d5cfd61abcb310c290fb0740d07434
 - 06/bisasam.png
     author:
     notes:
@@ -2843,11 +2653,6 @@
     notes:
     tags:
     sha1: 49dbea4babdde35afd86b9cf1488613de50c147b
-- 06/blackangelnf5.png
-    author:
-    notes:
-    tags:
-    sha1: abb946c3f800e37cd23d70fc7d50a20cf23445cc
 - 06/blackangel.png
     author:
     notes:
@@ -2963,11 +2768,6 @@
     notes:
     tags:
     sha1: b68ce4b32047aade024186ee3ca46285e8e0aa0e
-- 06/BlackSheep.png
-    author:
-    notes:
-    tags:
-    sha1: 29e2b7b76afab8345efb2423b7edc8a70079461b
 - 06/blacksquare.png
     author:
     notes:
@@ -3108,11 +2908,6 @@
     notes:
     tags:
     sha1: 9357c7ee09faaa49271948bd264a94fbd3eee6b4
-- 06/Blood_tee.png
-    author:
-    notes:
-    tags:
-    sha1: a9dfa1d7ba7ea59f7ac000f0be382688685914bb
 - 06/bloodybrwonbear.png
     author:
     notes:
@@ -3143,11 +2938,6 @@
     notes:
     tags:
     sha1: f9ba1d9f3f154844caa94889c5dd45298718880c
-- 06/blue2.png
-    author:
-    notes:
-    tags:
-    sha1: 49e1db6a1c5e5c30fbb39f0f466de5c23823ba88
 - 06/Blue_Bear_tee.png
     author:
     notes:
@@ -3173,11 +2963,6 @@
     notes:
     tags:
     sha1: bce3a4221ca015848519d66c203ac4ab3233e3e6
-- 06/blueear.png
-    author:
-    notes:
-    tags:
-    sha1: f38cc1cb4b82e8cbb19ef2b0eb6501a6179f2a2b
 - 06/blueee.png
     author:
     notes:
@@ -3229,11 +3014,6 @@
     tags:
     sha1: 933a6a3e49dda8217f8f800a4c868c5912da95bc
 - 06/bluekitty.png
-    author:
-    notes:
-    tags:
-    sha1: eac0e0c67e0dfdbf8921f6ed467edf6f6231c5a1
-- 06/Blue_KittyTesting.png
     author:
     notes:
     tags:
@@ -3293,11 +3073,6 @@
     notes:
     tags:
     sha1: f7dccc77e94e5968f2c5f0b35e7d728c2e789551
-- 06/bluestripe.png
-    author:
-    notes:
-    tags:
-    sha1: e79883ace3e00ea8bc72a7bc7418a814cf6d08a8
 - 06/blue_styler_tee.png
     author:
     notes:
@@ -3308,11 +3083,6 @@
     notes:
     tags:
     sha1: f9cec4d5f7e73480580b65d084bcc956653038b8
-- 06/bnw.png
-    author:
-    notes:
-    tags:
-    sha1: a6dd05755c1a92024df6f5f2e76f3987314b9a98
 - 06/bob_ninja.png
     author:
     notes:
@@ -3333,11 +3103,6 @@
     notes:
     tags:
     sha1: 9936b937c185a73d3474d8b1b2d9074a54a8abdd
-- 06/bob-omb.png
-    author:
-    notes:
-    tags:
-    sha1: bc34d52abbb7e20990aa938084b92b1f775d58ae
 - 06/bobomb.png
     author:
     notes:
@@ -3418,11 +3183,6 @@
     notes:
     tags:
     sha1: ed79eee06b5d1f7a679b92c3afa549def3434bb8
-- 06/bop-ninja.png
-    author:
-    notes:
-    tags:
-    sha1: e105e275f3b6078b1d694488e674a6a1c9bb1d6a
 - 06/boppel.png
     author:
     notes:
@@ -3474,16 +3234,6 @@
     tags:
     sha1: bf044172cf7bb51a5d0e26fc1ffdbe8f6d5c5910
 - 06/bowser.png
-    author:
-    notes:
-    tags:
-    sha1: be66a6e1eb769f4073e434f700630ff1f49c79e1
-- 06/Bowser.png
-    author:
-    notes:
-    tags:
-    sha1: be66a6e1eb769f4073e434f700630ff1f49c79e1
-- 06/bowserv.png
     author:
     notes:
     tags:
@@ -3573,11 +3323,6 @@
     notes:
     tags:
     sha1: a48c45235eb50202fb7a5eb561ddcb232691361a
-- 06/bublycv1.png
-    author:
-    notes:
-    tags:
-    sha1: ec6f4af2884f5c71ebcec1e80613c64eaa4e67c5
 - 06/bubly.png
     author:
     notes:
@@ -3588,11 +3333,6 @@
     notes:
     tags:
     sha1: a0e50f4b65e2277d6e67acbb587bf1419b5f8d48
-- 06/buccan10.png
-    author:
-    notes:
-    tags:
-    sha1: 30f3f7c339f5c887fd639cdaf0417a72b5672b5e
 - 06/buccaneer.png
     author:
     notes:
@@ -3613,11 +3353,6 @@
     notes:
     tags:
     sha1: 9f27ca399ba5192a4d5ad45e5c121ddae4f043bb
-- 06/bugofdoomhd4.png
-    author:
-    notes:
-    tags:
-    sha1: 687eb37492d4645ee2b3bff1c6d5064431c659a3
 - 06/bugofdoom.png
     author:
     notes:
@@ -3663,11 +3398,6 @@
     notes:
     tags:
     sha1: 4f781b6a9b2cb476b134fd602c7ebe9a888d0757
-- 06/Bush.png
-    author:
-    notes:
-    tags:
-    sha1: e87b9c6e44f16af348a870ccf5c638dbb450aff0
 - 06/Butters.png
     author:
     notes:
@@ -3818,11 +3548,6 @@
     notes:
     tags:
     sha1: 67b7bdc6c0a226798fe9b88ca51456509656bcf0
-- 06/CaptainAMN.png
-    author:
-    notes:
-    tags:
-    sha1: 67b7bdc6c0a226798fe9b88ca51456509656bcf0
 - 06/Captain_Delo.png
     author:
     notes:
@@ -3918,11 +3643,6 @@
     notes:
     tags:
     sha1: 5c4ff4a5802d026161868dd93800c5ca2d86b417
-- 06/checkers.png
-    author:
-    notes:
-    tags:
-    sha1: d42f49cf9736bb7d6ec2b2df07b7e1d5086743dd
 - 06/cheese.png
     author:
     notes:
@@ -3978,11 +3698,6 @@
     notes:
     tags:
     sha1: 3691b2da4b81388426cb8ceba79fa9eb0a27d18c
-- 06/Chincat.png
-    author:
-    notes:
-    tags:
-    sha1: 3827685a3b3d2f201fcbdd0b9542bd869ef0cc70
 - 06/chinese_by_whis.png
     author:
     notes:
@@ -3993,16 +3708,6 @@
     notes:
     tags:
     sha1: 8fa9231076e10081d8395920026cf89738b4ffdd
-- 06/Chinlila.png
-    author:
-    notes:
-    tags:
-    sha1: 4dcc365e83c3584ce4f8da83f00c1e02eaeb9a96
-- 06/Chinman2.png
-    author:
-    notes:
-    tags:
-    sha1: 20d16d570453952e86dcfa84827333ea5001c6b9
 - 06/Chinman.png
     author:
     notes:
@@ -4013,11 +3718,6 @@
     notes:
     tags:
     sha1: 740fd0b7021b1a3d23a90d789451a654a47f5749
-- 06/Chinswords.png
-    author:
-    notes:
-    tags:
-    sha1: a3b198db6b22909de5d476aaea94d08936c8e6f4
 - 06/choppy-blue.png
     author:
     notes:
@@ -4173,11 +3873,6 @@
     notes:
     tags:
     sha1: 577b5d3a8cd810b5fa42f67a94cc1b10976b915a
-- 06/Coala Hut.png
-    author:
-    notes:
-    tags:
-    sha1: fa7c2a58080ba324d9567c04929c891a2c85a66e
 - 06/coala_limekitty.png
     author:
     notes:
@@ -4263,11 +3958,6 @@
     notes:
     tags:
     sha1: d4a7e3b6e0913f1e81c3295d1998e8a3f7bdfd8e
-- 06/coldslommer2.png
-    author:
-    notes:
-    tags:
-    sha1: 086fab99d4e21f2fde09ebf5a81b5ed93cf35783
 - 06/coldslommer.png
     author:
     notes:
@@ -4343,11 +4033,6 @@
     notes:
     tags:
     sha1: f24304d19bd09fc8e82d4e17e1b163e7810adbcb
-- 06/Cooldown.png
-    author:
-    notes:
-    tags:
-    sha1: f24304d19bd09fc8e82d4e17e1b163e7810adbcb
 - 06/cooles_tee.png
     author:
     notes:
@@ -4398,11 +4083,6 @@
     notes:
     tags:
     sha1: 84372cb3987a2f7ba499c2ba4ba8c7b86719af71
-- 06/counterstrikexs5.png
-    author:
-    notes:
-    tags:
-    sha1: 84372cb3987a2f7ba499c2ba4ba8c7b86719af71
 - 06/cowboy.png
     author:
     notes:
@@ -4438,11 +4118,6 @@
     notes:
     tags:
     sha1: d44dde5bd6902e62225cdecefd7fbbb30ebf4ffc
-- 06/crashstyle2.png
-    author:
-    notes:
-    tags:
-    sha1: 98746d3b186f01872b6a8444c4f0898712ba6f82
 - 06/crashstyle.png
     author:
     notes:
@@ -4454,11 +4129,6 @@
     tags:
     sha1: 3ef02749e0a12265b256bba6523f5e6351792f54
 - 06/crazyrabbit.png
-    author:
-    notes:
-    tags:
-    sha1: 83910cabd52e30aa1ead718852fa5c5a1d63e141
-- 06/CrazyRabbit.png
     author:
     notes:
     tags:
@@ -4608,16 +4278,6 @@
     notes:
     tags:
     sha1: fbaee249849ca32dfdd71142d04002f30ca8317f
-- 06/cyclops2.png
-    author:
-    notes:
-    tags:
-    sha1: 734057da089d95d5b3a3075881897bf32b4de235
-- 06/Cyclops.png
-    author:
-    notes:
-    tags:
-    sha1: fbaee249849ca32dfdd71142d04002f30ca8317f
 - 06/cyndaquil.png
     author:
     notes:
@@ -4628,17 +4288,7 @@
     notes:
     tags:
     sha1: 51ee7620f0f2c87f294515367b2a2106e71f346d
-- 06/dalmatian2.png
-    author:
-    notes:
-    tags:
-    sha1: 1a8d76a728e535f191b73270b579128b09e84fcf
 - 06/dalmatian.png
-    author:
-    notes:
-    tags:
-    sha1: 1a8d76a728e535f191b73270b579128b09e84fcf
-- 06/dalmatianüö.png
     author:
     notes:
     tags:
@@ -4653,22 +4303,12 @@
     notes:
     tags:
     sha1: b775041c1e405a7b7a755a339b0449149da5aa44
-- 06/Danger_MAN_xD.png
-    author:
-    notes:
-    tags:
-    sha1: df4d08bbe288bc2019e5dfb994f1c72227d94fc5
 - 06/Daniel4.png
     author:
     notes:
     tags:
     sha1: 0937daabf2ea3d0fa5bfc9b3415dd8e4e974ea71
 - 06/dante.png
-    author:
-    notes:
-    tags:
-    sha1: 4a27cb487ba05c5a1920ba36fe9607f0a53a177b
-- 06/Dante.png
     author:
     notes:
     tags:
@@ -4733,11 +4373,6 @@
     notes:
     tags:
     sha1: a09d8f134c2252e7e4b88bbed3466aca7846af5b
-- 06/darknessvb2.png
-    author:
-    notes:
-    tags:
-    sha1: a09d8f134c2252e7e4b88bbed3466aca7846af5b
 - 06/dark_ninja.png
     author:
     notes:
@@ -4769,16 +4404,6 @@
     tags:
     sha1: c93714f00f629ec9ab9046bfaf3decbc0c3d9787
 - 06/darthvader.png
-    author:
-    notes:
-    tags:
-    sha1: 1b4dd73de45ef24448262ee51930caa621ee8003
-- 06/Darth Vader.png
-    author:
-    notes:
-    tags:
-    sha1: 1b4dd73de45ef24448262ee51930caa621ee8003
-- 06/DarthVader.png
     author:
     notes:
     tags:
@@ -4988,11 +4613,6 @@
     notes:
     tags:
     sha1: 4c8c547e2ee17ad59e65987de542449bc804ba2e
-- 06/deviltrident.png
-    author:
-    notes:
-    tags:
-    sha1: 4c8c547e2ee17ad59e65987de542449bc804ba2e
 - 06/dfgr.png
     author:
     notes:
@@ -5038,11 +4658,6 @@
     notes:
     tags:
     sha1: 302f58c7bb21ad988f2140ba61fe4369b53d6b32
-- 06/discoboypg1.png
-    author:
-    notes:
-    tags:
-    sha1: b89d59e6c83553f7f46b65ae2ffeb85c7ae28ce4
 - 06/discoboy.png
     author:
     notes:
@@ -5064,11 +4679,6 @@
     tags:
     sha1: 76fdba806eda229d6b360b403c2fefbba7fad4a5
 - 06/dodskin.png
-    author:
-    notes:
-    tags:
-    sha1: 07e03d8fa985dfada29bf8c102367d158edce979
-- 06/DoD-Skin!!!.png
     author:
     notes:
     tags:
@@ -5108,11 +4718,6 @@
     notes:
     tags:
     sha1: a5f37636dca38fb4b441b653808f30906e593b5e
-- 06/doomba.png
-    author:
-    notes:
-    tags:
-    sha1: 215104f336b6c9470e9103f2b8034b8226906f9a
 - 06/doomlord.png
     author:
     notes:
@@ -5153,11 +4758,6 @@
     notes:
     tags:
     sha1: 202c978bf165922cde4c41ce9d6b192c22fc76c5
-- 06/drizzle.png
-    author:
-    notes:
-    tags:
-    sha1: 8c2a555b1b964fa9044ce9d28e1f17cfeadad850
 - 06/drol.png
     author:
     notes:
@@ -5183,11 +4783,6 @@
     notes:
     tags:
     sha1: 4569bb1002f8f3424e212f2fa19d9c93181650d6
-- 06/Duality.png
-    author:
-    notes:
-    tags:
-    sha1: 461899c6b36da9c0d2c651c10aac20b38385cc6b
 - 06/duff_beer.png
     author:
     notes:
@@ -5293,11 +4888,6 @@
     notes:
     tags:
     sha1: b5ee07f19eb610138b13fad64c8c45ffef2fcd02
-- 06/Einstein-Tee.png
-    author:
-    notes:
-    tags:
-    sha1: 582f8b6d90f12ea37494e4a105da8ecfe2ff1ed3
 - 06/eis1.png
     author:
     notes:
@@ -5308,11 +4898,6 @@
     notes:
     tags:
     sha1: 19d9616c1efe9af2ec2804aadfad096475e1c69f
-- 06/eiswrfelas6.png
-    author:
-    notes:
-    tags:
-    sha1: 82d1fd05c2b5b953a0d8538d29653d14a61027c0
 - 06/electrode1o.png
     author:
     notes:
@@ -5324,11 +4909,6 @@
     tags:
     sha1: fceb6130a4947b7a54b1dfae9afb18429697b0d5
 - 06/electro tee.png
-    author:
-    notes:
-    tags:
-    sha1: 8ba894f75ea235c1106a51801f3851bc8178b6f4
-- 06/Electro Tee.png
     author:
     notes:
     tags:
@@ -5353,16 +4933,6 @@
     notes:
     tags:
     sha1: 41195cac41e1e3207871f22d1a7b2da975ba7f35
-- 06/elitegoldenknight.png
-    author:
-    notes:
-    tags:
-    sha1: f9671148a8f97ba49227eb24a78bd0f80aaa3922
-- 06/eliteknightpe6.png
-    author:
-    notes:
-    tags:
-    sha1: 1c127b0bd7ef8c1a2e8198e5f68b845d02839cfb
 - 06/eliteknight.png
     author:
     notes:
@@ -5373,11 +4943,6 @@
     notes:
     tags:
     sha1: 9965683393b1a90a21dadae6ea6f1c405af5fd77
-- 06/elvis.png
-    author:
-    notes:
-    tags:
-    sha1: 94eba0f8e04e28e6c7c9f76366bedd4fcc6bb126
 - 06/Emmo.png
     author:
     notes:
@@ -5483,11 +5048,6 @@
     notes:
     tags:
     sha1: d6b3a7fcddb3de5b6e3e128e8e7ef283dec238d6
-- 06/evil_by_whis.png
-    author:
-    notes:
-    tags:
-    sha1: 7c1d91a88ccbbd15fa2b8b7d1d6d0903063384cd
 - 06/evil_clann.png
     author:
     notes:
@@ -5498,11 +5058,6 @@
     notes:
     tags:
     sha1: dc73e4bc24520b55d6ceb14ad6719102014feea6
-- 06/evildt5.png
-    author:
-    notes:
-    tags:
-    sha1: 0b774cad9aa5e32f61544f4c1a23d4df2ca6db3e
 - 06/EvilMan.png
     author:
     notes:
@@ -5523,11 +5078,6 @@
     notes:
     tags:
     sha1: e181e8f4cfd5375e1412f9f92b0060d63a367867
-- 06/evilt.png
-    author:
-    notes:
-    tags:
-    sha1: 0b774cad9aa5e32f61544f4c1a23d4df2ca6db3e
 - 06/evil v o.1png.png
     author:
     notes:
@@ -5613,21 +5163,11 @@
     notes:
     tags:
     sha1: 033204bfdfbe336fe8352a320176ff267bcba4bf
-- 06/FantasieCat.png
-    author:
-    notes:
-    tags:
-    sha1: 3118d7ba10d9983f6bc45f758a39b178ea7c5144
 - 06/Fanta Tee.png
     author:
     notes:
     tags:
     sha1: 138949eb0bee2ef46a1b322e41b7668766f9b362
-- 06/Farmer.png
-    author:
-    notes:
-    tags:
-    sha1: 2d36eaeeb540e01feb8a530ac0841e62d181a32c
 - 06/Fashion_tee.png
     author:
     notes:
@@ -5793,11 +5333,6 @@
     notes:
     tags:
     sha1: fb06459e510d86e48b4ae1c5f39a52227af1eb4f
-- 06/fireni0.png
-    author:
-    notes:
-    tags:
-    sha1: a70a877ddd47ebc0f932fe523c7d193b18752cef
 - 06/fire-.png
     author:
     notes:
@@ -5843,11 +5378,6 @@
     notes:
     tags:
     sha1: 27aabdc1b8f90202e14b12205d5d4a6bac97d0da
-- 06/fix.clanskin..png
-    author:
-    notes:
-    tags:
-    sha1: 475672e067fc4cc47998b284821a6f9611c0fc2d
 - 06/fj1m7yoclv2v.png
     author:
     notes:
@@ -5903,11 +5433,6 @@
     notes:
     tags:
     sha1: 8cf85089020cc00d9d5f87cfc52cb0c427a91638
-- 06/Flamer.png
-    author:
-    notes:
-    tags:
-    sha1: 8cf85089020cc00d9d5f87cfc52cb0c427a91638
 - 06/flaseaman.png
     author:
     notes:
@@ -5918,11 +5443,6 @@
     notes:
     tags:
     sha1: e86ed8ed8ea2ce20b8ec538e680fa602b76be2c4
-- 06/f╡l_clanskin.png
-    author:
-    notes:
-    tags:
-    sha1: e074439ed08a84a69185160bd958694dc8021eb6
 - 06/fleecy.png
     author:
     notes:
@@ -5973,11 +5493,6 @@
     notes:
     tags:
     sha1: 72816c5bdee7caf0f700353bf0e4fd44df4e2a80
-- 06/Flying Silex.png
-    author:
-    notes:
-    tags:
-    sha1: 74e9e7452097d0297a76d43254fe437d34aadcf2
 - 06/Flying_Silex.png
     author:
     notes:
@@ -6018,21 +5533,11 @@
     notes:
     tags:
     sha1: fd5dfa46bc697f21e6f5187fca717136f557e3e3
-- 06/form_Boobsi.png
-    author:
-    notes:
-    tags:
-    sha1: ee2c72787a60e9c47cc5efcf9932f34fb41fb9d4
 - 06/form_Kerp2.png
     author:
     notes:
     tags:
     sha1: 6ab961a950bae716adc2d0692ca17318511b71f9
-- 06/form_Kerp.png
-    author:
-    notes:
-    tags:
-    sha1: 20d46dd7b1688f971b1ccef264f53beff562773a
 - 06/form_Lopty2.png
     author:
     notes:
@@ -6043,11 +5548,6 @@
     notes:
     tags:
     sha1: 8a7f86f57d42935469174f8cd39e52d8802e476f
-- 06/form_Montrike2.png
-    author:
-    notes:
-    tags:
-    sha1: 0471804237e4d780ebe71be4a4532d4232450c66
 - 06/form_Montrike.png
     author:
     notes:
@@ -6058,16 +5558,6 @@
     notes:
     tags:
     sha1: a253ce13a673bcbf38ed973e423d025b467448f0
-- 06/form_Seezar.png
-    author:
-    notes:
-    tags:
-    sha1: fa716a429309e717ede5661ebd60f88c1b340081
-- 06/form_Serfer2.png
-    author:
-    notes:
-    tags:
-    sha1: cfc0b8ee4ba0842f7d96f86d95ae473ef5c1c455
 - 06/form_Serfer.png
     author:
     notes:
@@ -6088,11 +5578,6 @@
     notes:
     tags:
     sha1: 935492b26f1db3ffd487696c068f8d0cee8daf44
-- 06/fozeene4.png
-    author:
-    notes:
-    tags:
-    sha1: 7333472e1d6a04cb74880080e07bd645bcefb41c
 - 06/Fozee.png
     author:
     notes:
@@ -6168,11 +5653,6 @@
     notes:
     tags:
     sha1: 9edab3f6524994ff4d182eb048e42c2f4c84d4bf
-- 06/frogking2.png
-    author:
-    notes:
-    tags:
-    sha1: 9cac4ab55375f9e0ac0c3d69b7a3a010280ec96d
 - 06/frogking.png
     author:
     notes:
@@ -6243,11 +5723,6 @@
     notes:
     tags:
     sha1: bd4a5f9ce097aeb01ea59d4f0fb7e06db69b9a89
-- 06/frozen.png
-    author:
-    notes:
-    tags:
-    sha1: 7333472e1d6a04cb74880080e07bd645bcefb41c
 - 06/Frozentee.png
     author:
     notes:
@@ -6313,11 +5788,6 @@
     notes:
     tags:
     sha1: d1b69c097776792f8f702ac172a97b70fe6d9bec
-- 06/fuck yeah.png
-    author:
-    notes:
-    tags:
-    sha1: 8c95fab51210a8fbbc2a105029e64a66d33da101
 - 06/fuck_yeah.png
     author:
     notes:
@@ -6743,11 +6213,6 @@
     notes:
     tags:
     sha1: a83d52d33f5efa2b7df0de6f698cd4e7f3032866
-- 06/goldenevilog2.png
-    author:
-    notes:
-    tags:
-    sha1: c4939cc093a14633da6de80a3ede45d9e6f2d228
 - 06/goldenevil.png
     author:
     notes:
@@ -6764,11 +6229,6 @@
     tags:
     sha1: f9671148a8f97ba49227eb24a78bd0f80aaa3922
 - 06/goldentee.png
-    author:
-    notes:
-    tags:
-    sha1: aacb344923c1d05abaceac4710c934553df77217
-- 06/goldenteerc7.png
     author:
     notes:
     tags:
@@ -6808,26 +6268,11 @@
     notes:
     tags:
     sha1: 79fa57ea95281a6a485e9b361e5bf72f2179f690
-- 06/gooip1.png
-    author:
-    notes:
-    tags:
-    sha1: 3d3e3d1d98e8430e90b478af36007896c9a419bd
 - 06/goomba.png
     author:
     notes:
     tags:
     sha1: a38960e3906f2a0af94e2092c1846d3ed1675591
-- 06/gooofdoomhe8.png
-    author:
-    notes:
-    tags:
-    sha1: 80b130d83dc4eb209104f25e0b10f68e094e45a7
-- 06/gooofdoom.png
-    author:
-    notes:
-    tags:
-    sha1: 80b130d83dc4eb209104f25e0b10f68e094e45a7
 - 06/goo.png
     author:
     notes:
@@ -6853,11 +6298,6 @@
     notes:
     tags:
     sha1: b169d5daa54df16bd243f8a0c310d7ee5b76e92f
-- 06/grÅn.png
-    author:
-    notes:
-    tags:
-    sha1: e76f15e6b640e677aa2435984c0e8ddf02b04d14
 - 06/Grass_Tee.png
     author:
     notes:
@@ -7128,11 +6568,6 @@
     notes:
     tags:
     sha1: 45d7372313324f0dd81f7d120c73bae837ef186e
-- 06/grⁿn.png
-    author:
-    notes:
-    tags:
-    sha1: e76f15e6b640e677aa2435984c0e8ddf02b04d14
 - 06/groubby.png
     author:
     notes:
@@ -7478,11 +6913,6 @@
     notes:
     tags:
     sha1: 0e4fb8802f8d6b81bd77987eacad2167a161afb8
-- 06/Hippy.png
-    author:
-    notes:
-    tags:
-    sha1: 0e4fb8802f8d6b81bd77987eacad2167a161afb8
 - 06/hirsch.png
     author:
     notes:
@@ -7578,11 +7008,6 @@
     notes:
     tags:
     sha1: db249a3406a8ead2c18edeebefac70050fb4ab6f
-- 06/hornsxf3.png
-    author:
-    notes:
-    tags:
-    sha1: db249a3406a8ead2c18edeebefac70050fb4ab6f
 - 06/horny.png
     author:
     notes:
@@ -7598,21 +7023,11 @@
     notes:
     tags:
     sha1: b5874855d900a91e64dc86e143dc9f948c44fa39
-- 06/hottyai3.png
-    author:
-    notes:
-    tags:
-    sha1: eefb3305ac7af964ea4eed039e4c676b8dc8adec
 - 06/hotty.png
     author:
     notes:
     tags:
     sha1: eefb3305ac7af964ea4eed039e4c676b8dc8adec
-- 06/h.png
-    author:
-    notes:
-    tags:
-    sha1: 82b2be6d55a30cfab3cb81430568f17552395d22
 - 06/hpn_hat.png
     author:
     notes:
@@ -7658,11 +7073,6 @@
     notes:
     tags:
     sha1: 6946b3b4cc89123ab9242bc8bb6a95f947b489c4
-- 06/HTF_enot_gray.png
-    author:
-    notes:
-    tags:
-    sha1: e4c7b6ea1de163d7d2939e5f57b2bda000057643
 - 06/HTF_enot.png
     author:
     notes:
@@ -7763,11 +7173,6 @@
     notes:
     tags:
     sha1: 9f1662aa6d7947a587b7257d7f8123be889cd042
-- 06/Hungy.png
-    author:
-    notes:
-    tags:
-    sha1: 9f1662aa6d7947a587b7257d7f8123be889cd042
 - 06/hurted.png
     author:
     notes:
@@ -7803,11 +7208,6 @@
     notes:
     tags:
     sha1: 82d1fd05c2b5b953a0d8538d29653d14a61027c0
-- 06/ice2.png
-    author:
-    notes:
-    tags:
-    sha1: 7333472e1d6a04cb74880080e07bd645bcefb41c
 - 06/iceberg.png
     author:
     notes:
@@ -7843,11 +7243,6 @@
     notes:
     tags:
     sha1: 07ac96562fe87131a9d3e8ce28ad2f9b8cbcd648
-- 06/Icetee.png
-    author:
-    notes:
-    tags:
-    sha1: 07ac96562fe87131a9d3e8ce28ad2f9b8cbcd648
 - 06/Ice_Tee.png
     author:
     notes:
@@ -7868,16 +7263,6 @@
     notes:
     tags:
     sha1: fad840eb5c2197d584fb3e8bfda1e2049c8d9eed
-- 06/Imagen-7.1.png
-    author:
-    notes:
-    tags:
-    sha1: 8f7f359730124c1b9dc4ebd87980c80118ac582a
-- 06/Imagen-7.png
-    author:
-    notes:
-    tags:
-    sha1: 8f7f359730124c1b9dc4ebd87980c80118ac582a
 - 06/incinerator-trooper.png
     author:
     notes:
@@ -7888,11 +7273,6 @@
     notes:
     tags:
     sha1: 8f668a43c9aaf9f87a17cba78a27a3d84f2ddae0
-- 06/indian2.png
-    author:
-    notes:
-    tags:
-    sha1: 6493bccd24d4b13a54461bf738f8c12d15c8abd6
 - 06/indianajones.png
     author:
     notes:
@@ -7923,11 +7303,6 @@
     notes:
     tags:
     sha1: 9e14a3f3882fd798f380d042eee67ff31476d4be
-- 06/invisiblel.png
-    author:
-    notes:
-    tags:
-    sha1: c5479af56c10b873799dfd166f2766221dcebad2
 - 06/invisible.png
     author:
     notes:
@@ -8223,11 +7598,6 @@
     notes:
     tags:
     sha1: 6959770f504ce519f5202d020d580f7256c64b12
-- 06/justin gay.png
-    author:
-    notes:
-    tags:
-    sha1: 8f7f359730124c1b9dc4ebd87980c80118ac582a
 - 06/justin-penev2-2.png
     author:
     notes:
@@ -8253,11 +7623,6 @@
     notes:
     tags:
     sha1: 90e2dcf03c9b262a5be02ddd916e8ce9ef043684
-- 06/kaka.png
-    author:
-    notes:
-    tags:
-    sha1: 5df67b4ee23b8e9330d955b0cf2375db8b28d314
 - 06/Kaktus.png
     author:
     notes:
@@ -8423,11 +7788,6 @@
     notes:
     tags:
     sha1: 49a9ec7dcd5e3a32c9196e467dc9e9e94c1d774f
-- 06/kioch.png
-    author:
-    notes:
-    tags:
-    sha1: 7e9692801ee60d432cd8c403f0caf1cff6b3cb8d
 - 06/Kira_normal.png
     author:
     notes:
@@ -8469,11 +7829,6 @@
     tags:
     sha1: 007481d4fc0b20299f3e9a69b7d229355cd92c60
 - 06/kisamesword.png
-    author:
-    notes:
-    tags:
-    sha1: cbf4a9e917be010ee0d8bf4c17b97c67195f180d
-- 06/kisamewsre9.png
     author:
     notes:
     tags:
@@ -8623,16 +7978,6 @@
     notes:
     tags:
     sha1: cb6c5a19b7a6e3ceaaecf2eebe36d453bd24f74b
-- 06/knightsn9.png
-    author:
-    notes:
-    tags:
-    sha1: cb6c5a19b7a6e3ceaaecf2eebe36d453bd24f74b
-- 06/knqhl.png
-    author:
-    notes:
-    tags:
-    sha1: 7b475c84be52ae43bdab63695920916e4c23dd15
 - 06/koala.png
     author:
     notes:
@@ -8738,11 +8083,6 @@
     notes:
     tags:
     sha1: 72f03887f531f2f81b24dcd9fd3015d4c114b6fc
-- 06/kyo.png
-    author:
-    notes:
-    tags:
-    sha1: 4d86d05993eba6f1d7396559701d2e6cdfca996b
 - 06/lady.png
     author:
     notes:
@@ -8878,11 +8218,6 @@
     notes:
     tags:
     sha1: 2c053c1bd0ae9e7fdf70762d365ebe07fa3da90e
-- 06/lightning.png
-    author:
-    notes:
-    tags:
-    sha1: 2c053c1bd0ae9e7fdf70762d365ebe07fa3da90e
 - 06/light_tee_2.png
     author:
     notes:
@@ -8894,11 +8229,6 @@
     tags:
     sha1: a5b18e33a5ee0d270aeed5f9b41078a7d77089ef
 - 06/limegreensword.png
-    author:
-    notes:
-    tags:
-    sha1: b8801aeb457165c1f40352217690766e58b88a3c
-- 06/Lime-Green-Sword.png
     author:
     notes:
     tags:
@@ -8953,11 +8283,6 @@
     notes:
     tags:
     sha1: cba16bb75a1681d41eadcbd589747b9791ce46c5
-- 06/Link.png
-    author:
-    notes:
-    tags:
-    sha1: 7ccf07be784c327bb86e987ad29a53e7506fb921
 - 06/LinuX.png
     author:
     notes:
@@ -9048,11 +8373,6 @@
     notes:
     tags:
     sha1: 7914ac133a674daef20216accc3eaf274298a1ea
-- 06/Lopty.png
-    author:
-    notes:
-    tags:
-    sha1: 8a7f86f57d42935469174f8cd39e52d8802e476f
 - 06/LordLapasis Skin.png
     author:
     notes:
@@ -9068,16 +8388,6 @@
     notes:
     tags:
     sha1: cb05c5ff45d73afce7b91762c515f3f229bbb22d
-- 06/l.png
-    author:
-    notes:
-    tags:
-    sha1: f4a2478ed7ada121818c31008ca10dc43b290b41
-- 06/LQeIf.png
-    author:
-    notes:
-    tags:
-    sha1: 125e3190b589a5fbd14c2fc3212c4f8bb932674d
 - 06/lqrtit7o.png
     author:
     notes:
@@ -9113,11 +8423,6 @@
     notes:
     tags:
     sha1: b351825eb169368d502ba730ac5c4bc0ad2bc794
-- 06/luigiteemd2.png
-    author:
-    notes:
-    tags:
-    sha1: e3122c69014b0aa40f276d1a0bac1bd4801d9dd8
 - 06/luigitee.png
     author:
     notes:
@@ -9188,11 +8493,6 @@
     notes:
     tags:
     sha1: 7cb4906746e61edb2437d81ed22171f4801458d0
-- 06/Mainblack2.png
-    author:
-    notes:
-    tags:
-    sha1: fc072250b1e54f3eb29e974ddc370bc169baf64c
 - 06/mainblack.png
     author:
     notes:
@@ -9218,11 +8518,6 @@
     notes:
     tags:
     sha1: fc072250b1e54f3eb29e974ddc370bc169baf64c
-- 06/maninblack.png
-    author:
-    notes:
-    tags:
-    sha1: 68416dbd6c8a2dc9fdcc03d152e10ea81641e23a
 - 06/Maple.png
     author:
     notes:
@@ -9268,11 +8563,6 @@
     notes:
     tags:
     sha1: 317ffd140df8d558d4e3316ffd290aae348b566f
-- 06/Mario-Pilz.png
-    author:
-    notes:
-    tags:
-    sha1: 65e11dc4a2267dab02769ed69366d68946c6680b
 - 06/mario.png
     author:
     notes:
@@ -9563,11 +8853,6 @@
     notes:
     tags:
     sha1: d0b1b6054fec4e6e9ae7254c4a41ce939a6c0e38
-- 06/mew.png
-    author:
-    notes:
-    tags:
-    sha1: 1c8f983d0f6ea9fc6d5e5c86b1ca43198be7779a
 - 06/mewtu.png
     author:
     notes:
@@ -9633,11 +8918,6 @@
     notes:
     tags:
     sha1: e81df6ee6d9b11f29db759c59f85855776e24669
-- 06/mike.png
-    author:
-    notes:
-    tags:
-    sha1: c656464ff64b51091b12eccaf24c1a2dd486faa7
 - 06/Mikey of PAULooShA.png
     author:
     notes:
@@ -9663,61 +8943,11 @@
     notes:
     tags:
     sha1: 682f4af42221d84789aae18c6286dd98c9a61280
-- 06/milky10.png
-    author:
-    notes:
-    tags:
-    sha1: c796abbaa7066634005aedf9f73dc5f6333c7e1d
-- 06/milky11.png
-    author:
-    notes:
-    tags:
-    sha1: e3e35fba5d8c9f672ba1d7b16498b2e52b2a4ef1
-- 06/milky12.png
-    author:
-    notes:
-    tags:
-    sha1: d197394643d4314572b71938ae3aed89d9b2ef6a
 - 06/milky13.png
     author:
     notes:
     tags:
     sha1: a251dcf2f5617aeed7534412fd72113bf5b6acdf
-- 06/milky14.png
-    author:
-    notes:
-    tags:
-    sha1: cce8c3e0d0b8d3d76e9059eec755809760631b6d
-- 06/milky1.png
-    author:
-    notes:
-    tags:
-    sha1: 1e85435ac945a7d09c1e00b2df1cc147b53a43c5
-- 06/milky2.png
-    author:
-    notes:
-    tags:
-    sha1: 2f8a8011db802697623cd22468f79e2229e39285
-- 06/milky3.png
-    author:
-    notes:
-    tags:
-    sha1: c4c84c1b1c5aaaeef254f66085eb1524faf7138b
-- 06/milky4.png
-    author:
-    notes:
-    tags:
-    sha1: d498f15325c4d31393ec7b7e1189a301fa930e49
-- 06/milky5.png
-    author:
-    notes:
-    tags:
-    sha1: b1c3a963c88e1549e6b86553364c15c5a861785a
-- 06/milky6.png
-    author:
-    notes:
-    tags:
-    sha1: cce8c3e0d0b8d3d76e9059eec755809760631b6d
 - 06/milky7.png
     author:
     notes:
@@ -9728,11 +8958,6 @@
     notes:
     tags:
     sha1: 141dbc5f2601fc131b3b81cdc99e5fad4af11cd0
-- 06/milky9.png
-    author:
-    notes:
-    tags:
-    sha1: 8f5fd6c47b6d432295b87219d1ce9f53b3585e55
 - 06/miloan.png
     author:
     notes:
@@ -9783,21 +9008,11 @@
     notes:
     tags:
     sha1: c3571f26fa1602dfc66c6904321612a5b384f05a
-- 06/m&mred.png
-    author:
-    notes:
-    tags:
-    sha1: 0794295aefeb504433df49a0931b90eee907f4e4
 - 06/m_mred.png
     author:
     notes:
     tags:
     sha1: 0794295aefeb504433df49a0931b90eee907f4e4
-- 06/m&myellow.png
-    author:
-    notes:
-    tags:
-    sha1: 1aa8a28867846e26c4e3f944a85a2d653db3203d
 - 06/m_myellow.png
     author:
     notes:
@@ -9818,11 +9033,6 @@
     notes:
     tags:
     sha1: e0fd6386f32ee09447647d5e423f9e75543a9ae2
-- 06/mohawkb2.png
-    author:
-    notes:
-    tags:
-    sha1: 6643c9e06b6990b6ca7c70d1e06aa671707555bb
 - 06/mohawkb.png
     author:
     notes:
@@ -9958,11 +9168,6 @@
     notes:
     tags:
     sha1: e0efaf198444c3bf55f2a28ec2f7e50ba5fe02f2
-- 06/Mummy2.png
-    author:
-    notes:
-    tags:
-    sha1: f4a24aae26a3d670fb2a4f733e89c0becd9eeb9f
 - 06/MummyBear.png
     author:
     notes:
@@ -10073,21 +9278,11 @@
     notes:
     tags:
     sha1: e593dc821013a175357895e1f18e7d604c4a4f99
-- 06/mzancienthl9.png
-    author:
-    notes:
-    tags:
-    sha1: 42ad53e2dd1b9626686dd76016799d923461ebd1
 - 06/mz-ancient.png
     author:
     notes:
     tags:
     sha1: 42ad53e2dd1b9626686dd76016799d923461ebd1
-- 06/mz-darkitteh.png
-    author:
-    notes:
-    tags:
-    sha1: 2e377192154eb30677715c7ba28a2c9156176397
 - 06/mzdarkittehvd0.png
     author:
     notes:
@@ -10098,21 +9293,11 @@
     notes:
     tags:
     sha1: 603bf02ad5c28fd382848f6d93134a7d70b6af25
-- 06/mz-m1erdl.png
-    author:
-    notes:
-    tags:
-    sha1: a65361b36f79b63e1625a7db3c4d43eb317ab9ac
 - 06/mzm1erdltt5.png
     author:
     notes:
     tags:
     sha1: a65361b36f79b63e1625a7db3c4d43eb317ab9ac
-- 06/mzsotonbb7.png
-    author:
-    notes:
-    tags:
-    sha1: f930966c40d5d5572cdf4057692745cf35d49bcc
 - 06/mz-soton.png
     author:
     notes:
@@ -10169,11 +9354,6 @@
     tags:
     sha1: 55b98310f0b75c233979ea0bc07bdfc735145585
 - 06/napoleon.png
-    author:
-    notes:
-    tags:
-    sha1: 15962320073019335f439fe120733dbfecdf9ab5
-- 06/NapoleoN.png
     author:
     notes:
     tags:
@@ -10238,22 +9418,12 @@
     notes:
     tags:
     sha1: 91b1867938b53ff25190ad2b80a6c635c0130e4c
-- 06/neon.png
-    author:
-    notes:
-    tags:
-    sha1: 701868da5f5f12655537558d2cb992850e349565
 - 06/Neon.png
     author:
     notes:
     tags:
     sha1: 5fab942b68451a8d02616703368a5983f4988b7b
 - 06/neontee.png
-    author:
-    notes:
-    tags:
-    sha1: 701868da5f5f12655537558d2cb992850e349565
-- 06/Neontee.png
     author:
     notes:
     tags:
@@ -10358,11 +9528,6 @@
     notes:
     tags:
     sha1: 012e55dd80675a07f2a82dca3f43f6acacd5133d
-- 06/ninja2.png
-    author:
-    notes:
-    tags:
-    sha1: beb58d189b1369d9ba9e74139955f7dc7d480caa
 - 06/ninjabop.png
     author:
     notes:
@@ -10383,16 +9548,6 @@
     notes:
     tags:
     sha1: ea2347d24353e1c7634fa26cdb4073f656532e23
-- 06/ninjaold.png
-    author:
-    notes:
-    tags:
-    sha1: beb58d189b1369d9ba9e74139955f7dc7d480caa
-- 06/ninja.png
-    author:
-    notes:
-    tags:
-    sha1: 20ac4a59a6402299f13657ece7dd84b4b62e34e4
 - 06/ninja-power.png
     author:
     notes:
@@ -10403,11 +9558,6 @@
     notes:
     tags:
     sha1: e3a430ba48dab8c20245f1f7088d09254d6f86a1
-- 06/ninja skin.png
-    author:
-    notes:
-    tags:
-    sha1: 85b22f26e000980dd52d967b249583d56682a5bb
 - 06/ninjaskin.png
     author:
     notes:
@@ -10468,11 +9618,6 @@
     notes:
     tags:
     sha1: 4bce98cc4bfcb5387e849401c9575601d0bfbcbd
-- 06/Noreturn.png
-    author:
-    notes:
-    tags:
-    sha1: a251dcf2f5617aeed7534412fd72113bf5b6acdf
 - 06/northbear2.png
     author:
     notes:
@@ -10613,11 +9758,6 @@
     notes:
     tags:
     sha1: e05d4944ebfeee3ff57284552b715559968d6eba
-- 06/ö.png
-    author:
-    notes:
-    tags:
-    sha1: a70a877ddd47ebc0f932fe523c7d193b18752cef
 - 06/Orange_Camouflage.png
     author:
     notes:
@@ -10723,11 +9863,6 @@
     notes:
     tags:
     sha1: 448f82309ff57a386bd281836de47e7e614b45f4
-- 06/paintp2.png
-    author:
-    notes:
-    tags:
-    sha1: 39b436848ff011ba38b1869582f04813ec748415
 - 06/paintp.png
     author:
     notes:
@@ -10758,11 +9893,6 @@
     notes:
     tags:
     sha1: efd9a843d6a0d4ec1fe04692db1a06dc42fd94bf
-- 06/panda2.png
-    author:
-    notes:
-    tags:
-    sha1: 4187a709e9f12911ddc118619d274aa4cc334c23
 - 06/pandabear.png
     author:
     notes:
@@ -10918,11 +10048,6 @@
     notes:
     tags:
     sha1: fd67e4615251c11c525f93e6415333da6b7aa6d3
-- 06/pentagonct3.png
-    author:
-    notes:
-    tags:
-    sha1: 0edf5b080ca6dd6ed6ff4e3dbc760459ca207094
 - 06/pentagon.png
     author:
     notes:
@@ -11068,11 +10193,6 @@
     notes:
     tags:
     sha1: db0098ce7d986243304f07ff56b76fe2bdc5e9fd
-- 06/Pikachu_1.png
-    author:
-    notes:
-    tags:
-    sha1: bc11e3ec2a30226c3dfbe3f6e3b87f12585ed68a
 - 06/pikachu2.png
     author:
     notes:
@@ -11083,11 +10203,6 @@
     notes:
     tags:
     sha1: bfdd90e89b37e3eb93622a5301eef3818c295e73
-- 06/pikachuf.png
-    author:
-    notes:
-    tags:
-    sha1: 8b764e99982e0ec4630b390cb4a078a0dd2a8334
 - 06/Pikachu.png
     author:
     notes:
@@ -11148,11 +10263,6 @@
     notes:
     tags:
     sha1: 7296def46544ff585e5528ffa53a3a5a9f5d750f
-- 06/pinkie2.png
-    author:
-    notes:
-    tags:
-    sha1: 8c2a555b1b964fa9044ce9d28e1f17cfeadad850
 - 06/pinkie.png
     author:
     notes:
@@ -11378,11 +10488,6 @@
     notes:
     tags:
     sha1: 4d29bce2db5c70264f0b52259810db76ddcc4115
-- 06/Polizei.png
-    author:
-    notes:
-    tags:
-    sha1: 9a1a675b8afd2b6ecf6592bba65808f640101a44
 - 06/polos_tee.png
     author:
     notes:
@@ -11533,11 +10638,6 @@
     notes:
     tags:
     sha1: 35b2aa7980b22c420eb01b558e92ffa8186aa000
-- 06/prizzyxz0.png
-    author:
-    notes:
-    tags:
-    sha1: 35b2aa7980b22c420eb01b558e92ffa8186aa000
 - 06/Probe_Droid.png
     author:
     notes:
@@ -11588,11 +10688,6 @@
     notes:
     tags:
     sha1: 02553a9ca189097b25c06b03c21795893bd6f2a1
-- 06/P-Rush1.png
-    author:
-    notes:
-    tags:
-    sha1: 241968662955fb1bf760d1c7f664c83c11bd1cbd
 - 06/P-SkizZ 2.png
     author:
     notes:
@@ -11639,16 +10734,6 @@
     tags:
     sha1: f7ae1a85b9edc841e5ed12c092cdc0e69fca1aac
 - 06/pummeluff.png
-    author:
-    notes:
-    tags:
-    sha1: a95e036782c4e17c5797e2391aba5a743114228d
-- 06/PummeLuFF.png
-    author:
-    notes:
-    tags:
-    sha1: a95e036782c4e17c5797e2391aba5a743114228d
-- 06/pummeluffzb5.png
     author:
     notes:
     tags:
@@ -11718,11 +10803,6 @@
     notes:
     tags:
     sha1: 894053a48c25f2840e3b88e23187815a41cc5633
-- 06/puzzle2.png
-    author:
-    notes:
-    tags:
-    sha1: 63df3bbb95a5ff221d45eecbc0a99085fabb5ceb
 - 06/puzzlehx0.png
     author:
     notes:
@@ -11778,11 +10858,6 @@
     notes:
     tags:
     sha1: 69d76935725d799eb94cfc1cde744ed93e266896
-- 06/radioactive2.png
-    author:
-    notes:
-    tags:
-    sha1: f2148dd833c4de2e5afeeae8983fd924ea32c17d
 - 06/radioactive.png
     author:
     notes:
@@ -11804,11 +10879,6 @@
     tags:
     sha1: eaa7fff474226b66cd12ce62b09ca01102f06199
 - 06/rainbowo.png
-    author:
-    notes:
-    tags:
-    sha1: a1be793162ac9a1b1be2e45df51860eddde2192d
-- 06/Rainbow.png
     author:
     notes:
     tags:
@@ -11843,11 +10913,6 @@
     notes:
     tags:
     sha1: b5ffda6c268d3e649e5cfa147f1b6c50ad576ac2
-- 06/Ramonas-MainSkinx3.png
-    author:
-    notes:
-    tags:
-    sha1: 3907d903aa0e13fab1b9ee09ef3550d8a5c232a8
 - 06/ramonas.png
     author:
     notes:
@@ -11893,21 +10958,11 @@
     notes:
     tags:
     sha1: 40c2e1db27b39e7b94bd85e3b8989352e1341bd2
-- 06/ratg7cqhwqln.png
-    author:
-    notes:
-    tags:
-    sha1: 19e32062f7e77cacaa712674fb1b316d1da44732
 - 06/raupi.png
     author:
     notes:
     tags:
     sha1: 6cd9416e959575f4d3b2d9d5a6eaff4d48973cae
-- 06/Raving Rabbits.png
-    author:
-    notes:
-    tags:
-    sha1: 83910cabd52e30aa1ead718852fa5c5a1d63e141
 - 06/rayban green.png
     author:
     notes:
@@ -11948,11 +11003,6 @@
     notes:
     tags:
     sha1: 3e509e4deb5d46e8204db08587a0acf3092a427d
-- 06/ReadyForChristmas.png
-    author:
-    notes:
-    tags:
-    sha1: 6f3d06e57119b2192d66462cb6723c5725ebd8d0
 - 06/reaper.png
     author:
     notes:
@@ -11999,11 +11049,6 @@
     tags:
     sha1: a4e5fb4c18e3b899f4395aa9bedebd32c359c90c
 - 06/redboppemon.png
-    author:
-    notes:
-    tags:
-    sha1: dc5e79add77eedf22042cf497bfad9ecb057e551
-- 06/Redboppenom.png
     author:
     notes:
     tags:
@@ -12223,11 +11268,6 @@
     notes:
     tags:
     sha1: a5b5fe37c276db8ccae0aec126213cc6514b2de3
-- 06/rhombusaz2.png
-    author:
-    notes:
-    tags:
-    sha1: 8d58d1f3189ed7b6c2a06597aabf96d84adf1388
 - 06/rhombus.png
     author:
     notes:
@@ -12353,11 +11393,6 @@
     notes:
     tags:
     sha1: 1dee29c6d790751b590e11806591adb3de691fec
-- 06/ruffymc8.png
-    author:
-    notes:
-    tags:
-    sha1: 340c9ffac82b2400ee8bdc1db9f6523318c30359
 - 06/Ruffy.png
     author:
     notes:
@@ -12543,11 +11578,6 @@
     notes:
     tags:
     sha1: 720f970530915f54dea019d02298bfeae080735c
-- 06/santateejs9.png
-    author:
-    notes:
-    tags:
-    sha1: 4411fff5a65e6660f0a2b3f10afee970eedd3ff5
 - 06/santa_tee.png
     author:
     notes:
@@ -12768,17 +11798,7 @@
     notes:
     tags:
     sha1: 480189656b044bf155bce2cba5cf613eea1f0ade
-- 06/Shadow.png
-    author:
-    notes:
-    tags:
-    sha1: 480189656b044bf155bce2cba5cf613eea1f0ade
 - 06/shadowtee.png
-    author:
-    notes:
-    tags:
-    sha1: c4b1a46f1cc085d22a3e48e67c6e134a9bce02c6
-- 06/Shadowtee.png
     author:
     notes:
     tags:
@@ -12883,11 +11903,6 @@
     notes:
     tags:
     sha1: dc9ee924f829bad8238175ce995967495411335e
-- 06/ShΓrk_personal.png
-    author:
-    notes:
-    tags:
-    sha1: c5d164129888940cbf5b3cd7f4f4fe4d229b10bb
 - 06/sihw.png
     author:
     notes:
@@ -12903,16 +11918,6 @@
     notes:
     tags:
     sha1: e25e01de1b6e240a7fcc28999e55c483d5d36c7e
-- 06/Silver.png
-    author:
-    notes:
-    tags:
-    sha1: e25e01de1b6e240a7fcc28999e55c483d5d36c7e
-- 06/silverteenu1.png
-    author:
-    notes:
-    tags:
-    sha1: 0f89b3e7367f23137b1123031f37614751641a81
 - 06/silvertee.png
     author:
     notes:
@@ -12993,11 +11998,6 @@
     notes:
     tags:
     sha1: 49ebb00f5f72f76bc6dabc2ec38a3dbda1f2320d
-- 06/skin_how12356.png
-    author:
-    notes:
-    tags:
-    sha1: c1e3709d3fa5e50f15d6a80a75b4227468e2b4da
 - 06/skinnin¬Go.png
     author:
     notes:
@@ -13008,11 +12008,6 @@
     notes:
     tags:
     sha1: 7f1cd7ff6be8dbafaf7a3ae40b25e05a80ff9370
-- 06/skin_pa_ninªΓo.png
-    author:
-    notes:
-    tags:
-    sha1: de2ff1959fdb82c6a92c5e5bf4ac54f779c095bd
 - 06/skinpanio.png
     author:
     notes:
@@ -13104,11 +12099,6 @@
     tags:
     sha1: 09aaadd8900c4b2922c1fdcfa914a37e3d1c65df
 - 06/smally.png
-    author:
-    notes:
-    tags:
-    sha1: 0fd98efad517497831c717dd12b91080a8dfc5da
-- 06/Smally.png
     author:
     notes:
     tags:
@@ -13253,11 +12243,6 @@
     notes:
     tags:
     sha1: fb1edfa9b15931ed812ec787bc290b73c96be664
-- 06/Sonic.png
-    author:
-    notes:
-    tags:
-    sha1: fb1edfa9b15931ed812ec787bc290b73c96be664
 - 06/sonic_teeworlds_skin_by_gymnart-d3711hi.png
     author:
     notes:
@@ -13353,11 +12338,6 @@
     notes:
     tags:
     sha1: 9517568a84dbc429e24982c470f5944190227c1d
-- 06/sparkyv.png
-    author:
-    notes:
-    tags:
-    sha1: 9517568a84dbc429e24982c470f5944190227c1d
 - 06/SPatrick.png
     author:
     notes:
@@ -13378,11 +12358,6 @@
     notes:
     tags:
     sha1: 1d76773ae7b9263f28a7e929468ac6b2e32d353e
-- 06/spider1.png
-    author:
-    notes:
-    tags:
-    sha1: 64b7f208d5ee4594573b6d4b4f2eb4e5c3ca5ac9
 - 06/Spiderman.png
     author:
     notes:
@@ -13403,16 +12378,6 @@
     notes:
     tags:
     sha1: 77623007c8e18d6313b3f2c39dcc5b678a3652aa
-- 06/spikeswosd-ninja.png
-    author:
-    notes:
-    tags:
-    sha1: df4d08bbe288bc2019e5dfb994f1c72227d94fc5
-- 06/spikey.png
-    author:
-    notes:
-    tags:
-    sha1: f4cd67505baa70748e635cc3b9ea9136ec262d3f
 - 06/spikey-tee.png
     author:
     notes:
@@ -13478,11 +12443,6 @@
     notes:
     tags:
     sha1: 2ca08b383fcdf304b892bb007e96294941b0e982
-- 06/sppice_39032.png
-    author:
-    notes:
-    tags:
-    sha1: 13111e79c0013e15ac27d2c7d94e1ee7966d52f8
 - 06/SP.png
     author:
     notes:
@@ -13513,11 +12473,6 @@
     notes:
     tags:
     sha1: 156f59726516bef6efb2e356bc24f680a0a6cf8f
-- 06/Stan Marsh.png
-    author:
-    notes:
-    tags:
-    sha1: 1647e397ab6469321c1ae966a28901fc7f1530f9
 - 06/Stan.png
     author:
     notes:
@@ -13563,11 +12518,6 @@
     notes:
     tags:
     sha1: 779b7b4b584f18068be96b7a640be2757661b214
-- 06/stewiek.png
-    author:
-    notes:
-    tags:
-    sha1: 363a2f6c6a7c926408d0346efb138fcb3c874199
 - 06/Stewie.png
     author:
     notes:
@@ -13593,11 +12543,6 @@
     notes:
     tags:
     sha1: 2442de7f21cc0107db84f40835decf8c6f2ddfc4
-- 06/Stick Man.png
-    author:
-    notes:
-    tags:
-    sha1: 87598a7f89dade2a070d627df550d31e43aa7a29
 - 06/Sticky.png
     author:
     notes:
@@ -13658,11 +12603,6 @@
     notes:
     tags:
     sha1: 984cf170e732701e4870bdd72aeb6a8a3a04927f
-- 06/Styler.png
-    author:
-    notes:
-    tags:
-    sha1: 3e7b5a6382b83ad5cb7acc29e8d0dc75805de5a6
 - 06/Styler_tee-50.png
     author:
     notes:
@@ -13818,11 +12758,6 @@
     notes:
     tags:
     sha1: adab76d59a61c3834e9815a94907a95df9740d16
-- 06/SYLTOOX.png
-    author:
-    notes:
-    tags:
-    sha1: cf84ab6cb4013a51b9ac622ed3e3dab06dd56b1c
 - 06/syntex-personal2.png
     author:
     notes:
@@ -14003,22 +12938,12 @@
     notes:
     tags:
     sha1: daa2b66800ec9a59e1def19125d5d52507276d12
-- 06/Teemafia.png
-    author:
-    notes:
-    tags:
-    sha1: daa2b66800ec9a59e1def19125d5d52507276d12
 - 06/Teemen.png
     author:
     notes:
     tags:
     sha1: 30e43386a4e56955d451f2aa9a5a6266e995445f
 - 06/teentacion.png
-    author:
-    notes:
-    tags:
-    sha1: 31cbd1d34c9fbaa648e1359687ca50661c577840
-- 06/Teentacion.png
     author:
     notes:
     tags:
@@ -14063,21 +12988,6 @@
     notes:
     tags:
     sha1: 699d9120dda6d29172186ed4c81a05323aaac893
-- 06/teknoo.png
-    author:
-    notes:
-    tags:
-    sha1: 7fa0ade7b42d92c5c50acaabbd552728c92da6f2
-- 06/Tekno.png
-    author:
-    notes:
-    tags:
-    sha1: 7fa0ade7b42d92c5c50acaabbd552728c92da6f2
-- 06/Tekno_Tee.png
-    author:
-    notes:
-    tags:
-    sha1: 7fa0ade7b42d92c5c50acaabbd552728c92da6f2
 - 06/teledipsy.png
     author:
     notes:
@@ -14163,11 +13073,6 @@
     notes:
     tags:
     sha1: 34900e4ac5cbbb287725b7a5f9b77d8e1fd49306
-- 06/thachrisskin.png
-    author:
-    notes:
-    tags:
-    sha1: 6a67262880c99b7a0faac51e91be5a1daeb00712
 - 06/thajoeyskin2.png
     author:
     notes:
@@ -14233,11 +13138,6 @@
     notes:
     tags:
     sha1: a6836375ce5c18c987c926d8e3b42cdc00b35099
-- 06/The Mummy.png
-    author:
-    notes:
-    tags:
-    sha1: 2c00d5e545939e5f8aeb887123c7316666660d29
 - 06/the_new_generation_engel.png
     author:
     notes:
@@ -14283,11 +13183,6 @@
     notes:
     tags:
     sha1: 0e69025c0d2658d4a4ab8de9edd08602ea2f229a
-- 06/tigerstripesq1.png
-    author:
-    notes:
-    tags:
-    sha1: 0e69025c0d2658d4a4ab8de9edd08602ea2f229a
 - 06/tigertee.png
     author:
     notes:
@@ -14308,11 +13203,6 @@
     notes:
     tags:
     sha1: 8643f1f2e853fbaae1d9e76fcefcb6c0d05b82ec
-- 06/Timmy.png
-    author:
-    notes:
-    tags:
-    sha1: 847b4552127c6ada67769aa46c92d93c8c514935
 - 06/tinker.png
     author:
     notes:
@@ -14353,11 +13243,6 @@
     notes:
     tags:
     sha1: 69eec7a793017a0f50f6e67b9c4abaa64c5f640d
-- 06/tmilk.png
-    author:
-    notes:
-    tags:
-    sha1: 682f4af42221d84789aae18c6286dd98c9a61280
 - 06/T. Nor.png
     author:
     notes:
@@ -14468,11 +13353,6 @@
     notes:
     tags:
     sha1: 2a96df7cf90410c3277f48c833d56e5801197a99
-- 06/triangleca1.png
-    author:
-    notes:
-    tags:
-    sha1: 725438c11c3c9bef6b1d5aa6111e0931777ac540
 - 06/triangle.png
     author:
     notes:
@@ -14508,11 +13388,6 @@
     notes:
     tags:
     sha1: d9c58683f924d6a8842a86ed52cf8fa770b4c45f
-- 06/Troll2.png
-    author:
-    notes:
-    tags:
-    sha1: 5c1f9cb1329cf5f12d53e08a3c6583d7b55726d8
 - 06/troll.png
     author:
     notes:
@@ -14693,11 +13568,6 @@
     notes:
     tags:
     sha1: b74ac4c1c87453fd4635d86141990d8c6575d4a6
-- 06/Twinbobpenom.png
-    author:
-    notes:
-    tags:
-    sha1: b74ac4c1c87453fd4635d86141990d8c6575d4a6
 - 06/twinbop2.png
     author:
     notes:
@@ -14728,11 +13598,6 @@
     notes:
     tags:
     sha1: 89bb177fac8b8e93e58d32b9ab8cded68b7e6e20
-- 06/twintrikitty.png
-    author:
-    notes:
-    tags:
-    sha1: 2c1f042466042368a0d358e2a7b6b8e0f50ec6d6
 - 06/Twintrikitty.png
     author:
     notes:
@@ -14833,11 +13698,6 @@
     notes:
     tags:
     sha1: df58be7ebb3893b417f52474e7fa58aaf7b82822
-- 06/UndeadPirat.png
-    author:
-    notes:
-    tags:
-    sha1: df58be7ebb3893b417f52474e7fa58aaf7b82822
 - 06/undead.png
     author:
     notes:
@@ -14918,21 +13778,11 @@
     notes:
     tags:
     sha1: c41c18cf0e18d17f14d7308e7d0e0ab81598d872
-- 06/viker2.png
-    author:
-    notes:
-    tags:
-    sha1: 3deaa2fdce47114786bd6905d29297e027817fea
 - 06/viker.png
     author:
     notes:
     tags:
     sha1: 3deaa2fdce47114786bd6905d29297e027817fea
-- 06/vikinge2.png
-    author:
-    notes:
-    tags:
-    sha1: 202f5ef502c13357b13fbed92798716ae909765e
 - 06/vikinge.png
     author:
     notes:
@@ -14973,11 +13823,6 @@
     notes:
     tags:
     sha1: c3ca6ddb9b7424db98dd6d4ef137b88917139ff2
-- 06/Voodoo_tee_1.png
-    author:
-    notes:
-    tags:
-    sha1: a72c1ebd3a224b3630425b9e4613ceda3d08389b
 - 06/voodoo_tee.png
     author:
     notes:
@@ -15098,11 +13943,6 @@
     notes:
     tags:
     sha1: 83e11ec57a357c72f734b4c7555ace01c19a0a47
-- 06/watergoo.png
-    author:
-    notes:
-    tags:
-    sha1: c1dcede74ade59e6756428c30e3f476f6ea81b5c
 - 06/watermelony.png
     author:
     notes:
@@ -15128,11 +13968,6 @@
     notes:
     tags:
     sha1: eb55143b92b6a9e6acf05daac7212d575cfef847
-- 06/weapon-spezialistv2.png
-    author:
-    notes:
-    tags:
-    sha1: eebd718b5edb7cacce285fb52d0fe3738a9d2f79
 - 06/weaponspezialistv2.png
     author:
     notes:
@@ -15283,11 +14118,6 @@
     notes:
     tags:
     sha1: f4cd67505baa70748e635cc3b9ea9136ec262d3f
-- 06/WhiteSpikes v2.png
-    author:
-    notes:
-    tags:
-    sha1: 4a55c22c4374af952d4ffddcdd4bbff79141fd1b
 - 06/WhiteStikey_Tee.png
     author:
     notes:
@@ -15318,21 +14148,6 @@
     notes:
     tags:
     sha1: c44f9605ff5bf209d9e61c9fa1fbcde2ee82c7ba
-- 06/Wiking.png
-    author:
-    notes:
-    tags:
-    sha1: f14e23434290db8d909d14d102b5365e43de6ec0
-- 06/Wikipedia.png
-    author:
-    notes:
-    tags:
-    sha1: 699d9120dda6d29172186ed4c81a05323aaac893
-- 06/WildTee.png
-    author:
-    notes:
-    tags:
-    sha1: 34d21bed14fbd78c86f8190f48d0f092dcc637d7
 - 06/winbasket.png
     author:
     notes:
@@ -15388,11 +14203,6 @@
     notes:
     tags:
     sha1: 136370349aee8de9edcf5d00df6d2f127e784582
-- 06/witheh.png
-    author:
-    notes:
-    tags:
-    sha1: 5df67b4ee23b8e9330d955b0cf2375db8b28d314
 - 06/WlAGz.png
     author:
     notes:
@@ -15403,11 +14213,6 @@
     notes:
     tags:
     sha1: 05bd62355204a363ec98db7d9d6a3f324b9b2567
-- 06/wolf2.png
-    author:
-    notes:
-    tags:
-    sha1: cfe97d704e0dbc3068ad054889d27ad39cf9e113
 - 06/Wolfie.png
     author:
     notes:
@@ -15448,11 +14253,6 @@
     notes:
     tags:
     sha1: 3f6a17c6952edeffe0784b438f21ffa8344ffffe
-- 06/woot.png
-    author:
-    notes:
-    tags:
-    sha1: a7cdce8bc47cb5c864a0e74e0363e5643aecea25
 - 06/Work_tee.png
     author:
     notes:
@@ -15483,11 +14283,6 @@
     notes:
     tags:
     sha1: 65d455fc59e8356359326da070cf80e15aebe2fb
-- 06/WurstBombe Perso1.png
-    author:
-    notes:
-    tags:
-    sha1: 4545befcea38f50f384affe40b408a0b8db53fae
 - 06/wurstbombeperso.png
     author:
     notes:
@@ -15543,37 +14338,17 @@
     notes:
     tags:
     sha1: 3e7140e6bca0973f0dfeeb4f90302771821d20d1
-- 06/x_ninja0.png
-    author:
-    notes:
-    tags:
-    sha1: beb58d189b1369d9ba9e74139955f7dc7d480caa
 - 06/x_ninja-1.png
     author:
     notes:
     tags:
     sha1: abba64586d224f560f3e65e76ca075ba0c06fb1e
-- 06/x_ninja1.png
-    author:
-    notes:
-    tags:
-    sha1: beb58d189b1369d9ba9e74139955f7dc7d480caa
 - 06/x_ninja2.png
     author:
     notes:
     tags:
     sha1: 20ac4a59a6402299f13657ece7dd84b4b62e34e4
-- 06/x_ninjabak.png
-    author:
-    notes:
-    tags:
-    sha1: beb58d189b1369d9ba9e74139955f7dc7d480caa
 - 06/x_ninja.png
-    author:
-    notes:
-    tags:
-    sha1: beb58d189b1369d9ba9e74139955f7dc7d480caa
-- 06/_x_ninja.png
     author:
     notes:
     tags:
@@ -15683,11 +14458,6 @@
     notes:
     tags:
     sha1: 7c845ded81b73b94b6c14f5f929bdb5cbad1603e
-- 06/yingyangteebk8.png
-    author:
-    notes:
-    tags:
-    sha1: 2b43f34c5913008bda8f43c6819c7e789f366eab
 - 06/yingyangtee.png
     author:
     notes:
@@ -15773,11 +14543,6 @@
     notes:
     tags:
     sha1: e96494e5db7c1242acdbc10d1d1eca2032ed94b6
-- 06/zombie 2.png
-    author:
-    notes:
-    tags:
-    sha1: 6a3bc5bdd94e9692efde7edb8222390a53a151dc
 - 06/zombie2.png
     author:
     notes:
@@ -15793,11 +14558,6 @@
     notes:
     tags:
     sha1: 3dc497f0a98fb142e206d16ef7edddacf011ce71
-- 06/Zombie4.png
-    author:
-    notes:
-    tags:
-    sha1: 636b3f99a66df560d258c46b91fe42041c2eaff6
 - 06/zombie5.png
     author:
     notes:
@@ -15808,11 +14568,6 @@
     notes:
     tags:
     sha1: 959256a5ff24662894697cf90d5b2abfee6cec42
-- 06/zombie.png
-    author:
-    notes:
-    tags:
-    sha1: ad5585e8b9d8bc14a53eecd6075a4cb26139a2d1
 - 06/ZombieZombie.png
     author:
     notes:
@@ -15863,11 +14618,6 @@
     notes:
     tags:
     sha1: fd2f61c23aa7efe44207e80387a3d706ed62f0c9
-- 06/ztyla epic skin.png
-    author:
-    notes:
-    tags:
-    sha1: d9365a2ad940df70d1c46404200a131fe1f103db
 - 06/ztyla.png
     author:
     notes:
